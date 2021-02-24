@@ -21,11 +21,11 @@ Machine Learning Engineer, [__Grid Dynamics__](https://www.griddynamics.com/)
 * Demand prediction
 
 `October 2018 - July 2019`
-Head of IT, __braingarden.ai__
+Head of IT, [__Braingarden__](https://braingarden.ai)
 * DevOps/MlOps culture development
 
 `August 2017 - September 2018`
-Head of IT, __braingarden.ai__
+Machine Learning Engineer, [__Braingarden__](https://braingarden.ai)
 * Project outfimind.com - full-stack MLE from data-mining to implementation deep learning models to mobile application
 Article about product (rus language): [link](https://vc.ru/tribuna/38102-taymlayn-outfitmind)
 
