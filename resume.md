@@ -23,7 +23,7 @@ Head of IT, [__Braingarden__](https://braingarden.ai)
 
 `August 2017 - September 2018`
 Machine Learning Engineer, [__Braingarden__](https://braingarden.ai)
-* Project outfimind.com - full-stack MLE from data-mining to implementation deep learning models to mobile application
+* Project outfimind.com - full-stack MLE from data-mining to implementation deep learning models to mobile application  
 Article about product (rus language): [link](https://vc.ru/tribuna/38102-taymlayn-outfitmind)
 
 `January 2016 - July 2017`
