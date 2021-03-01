@@ -12,28 +12,28 @@ __St.  Petersburg University of Telecommunications__
 
 ## Work experience
 `August 2019 - currently`
-Machine Learning Engineer, [__Grid Dynamics__](https://www.griddynamics.com/)
+__Machine Learning Engineer__, [__Grid Dynamics__](https://www.griddynamics.com/)
 * Recommender systems
 * Computer Vision: Visual Search, Video processing
 * Demand prediction
 
 `October 2018 - July 2019`
-Head of IT, [__Braingarden__](https://braingarden.ai)
+__Head of IT__, [__Braingarden__](https://braingarden.ai)
 * DevOps/MLOps culture development
 
 `August 2017 - September 2018`
-Machine Learning Engineer, [__Braingarden__](https://braingarden.ai)
+__Machine Learning Engineer__, [__Braingarden__](https://braingarden.ai)
 * Project outfimind.com - full-stack MLE from data-mining to implementation deep learning models to mobile application  
 Article about product (rus language): [link](https://vc.ru/tribuna/38102-taymlayn-outfitmind)
 
 `January 2016 - July 2017`
-Self-employed developer  
+__Self-employed developer__  
 Developing own mobile applications:
 * Total Installs: 20M+
 * There are apps with neural networks: [example](https://github.com/deerslab/quickdraw)
 
 `May 2012 - January 2016`
-IT manager / Head of IT-infrastructure, __Bank Sovetskiy__
+__IT manager / Head of IT-infrastructure__, __Bank Sovetskiy__
 * Responsible for the IT-infrastructure of whole bank in 17 regions of Russia, 1500 users
 
 ## Certificates
