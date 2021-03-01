@@ -2,7 +2,7 @@
 # Dmitry Pavlov
 Machine Learning Engineer
 
-## Currently
+### Currently
 MLE at Grid Dynamics
 
 ### Interest in
@@ -22,7 +22,7 @@ Machine Learning Engineer, [__Grid Dynamics__](https://www.griddynamics.com/)
 
 `October 2018 - July 2019`
 Head of IT, [__Braingarden__](https://braingarden.ai)
-* DevOps/MlOps culture development
+* DevOps/MLOps culture development
 
 `August 2017 - September 2018`
 Machine Learning Engineer, [__Braingarden__](https://braingarden.ai)
