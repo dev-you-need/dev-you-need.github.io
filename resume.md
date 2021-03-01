@@ -27,7 +27,7 @@ Machine Learning Engineer, [__Braingarden__](https://braingarden.ai)
 Article about product (rus language): [link](https://vc.ru/tribuna/38102-taymlayn-outfitmind)
 
 `January 2016 - July 2017`
-Self-employed developer
+Self-employed developer  
 Developing own mobile applications:
 * Total Installs: 20M+
 * There are apps with neural networks: [example](https://github.com/deerslab/quickdraw)
@@ -46,3 +46,4 @@ IT manager / Head of IT-infrastructure, __Bank Sovetskiy__
 * Cloud providers: AWS
 * Common DS tools: pandas, numpy, scikit-learn, matplotlib, etc
 * Infrastructure: Docker
+* Other: OpenCV
