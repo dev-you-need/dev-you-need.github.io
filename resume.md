@@ -2,9 +2,6 @@
 # Dmitry Pavlov
 Machine Learning Engineer
 
-### Currently
-MLE at Grid Dynamics
-
 ### Interest in
 Computer Vision, Reinforcement Learning, Robotics
 
@@ -37,6 +34,7 @@ Developing own mobile applications:
 
 `May 2012 - January 2016`
 IT manager / Head of IT-infrastructure, __Bank Sovetskiy__
+* Responsible for the IT-infrastructure of whole bank in 17 regions of Russia, 1500 users
 
 ## Certificates
 * __AWS Cloud Practitioner__, Validation Number TQ570KSJCMF4QLWR
