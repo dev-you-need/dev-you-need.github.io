@@ -7,7 +7,7 @@ Computer Vision, Reinforcement Learning, Robotics
 
 ## Education
 `2001-2006`
-__St.  Petersburg University of Telecommunications__
+__St.Petersburg University of Telecommunications__
 * Radioengineering
 
 ## Work experience
