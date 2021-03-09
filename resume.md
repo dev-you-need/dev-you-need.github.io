@@ -1,3 +1,7 @@
+---
+title: false
+description: false
+---
 
 # Dmitry Pavlov
 Machine Learning Engineer
