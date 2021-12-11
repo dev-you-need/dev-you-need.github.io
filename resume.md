@@ -13,9 +13,10 @@ __St.Petersburg University of Telecommunications__
 ## Work experience
 `August 2019 - currently`
 __Machine Learning Engineer__, [__Grid Dynamics__](https://www.griddynamics.com/)
+Various projects for a few clients
 * Recommender systems
 * Computer Vision: Visual Search, Video processing
-* Demand prediction
+* Building ML-pipelines
 
 `October 2018 - July 2019`
 __Head of IT__, [__Braingarden__](https://braingarden.ai)
@@ -32,12 +33,14 @@ Developing own mobile applications:
 * Total Installs: 20M+
 * There are apps with neural networks: [example](https://github.com/deerslab/quickdraw)
 
-`May 2012 - January 2016`
+`May 2010 - January 2016`
 __IT manager / Head of IT-infrastructure__, __Bank Sovetskiy__
-* Responsible for the IT-infrastructure of whole bank in 17 regions of Russia, 1500 users
+* Responsible for the IT-infrastructure of whole bank in 17 regions of Russia, 60 employees in subordinate units
+
 
 ## Certificates
-* __AWS Cloud Practitioner__, Validation Number TQ570KSJCMF4QLWR
+* __AWS Certified Machine Learning__, [Validation Number 6PXWRNBBF214163H](https://aw.certmetrics.com/amazon/public/verification.aspx)
+* __AWS Cloud Practitioner__, [Validation Number TQ570KSJCMF4QLWR](https://aw.certmetrics.com/amazon/public/verification.aspx)
 * __Dataiku Advanced DSS design__, License N° 29098d6E79
 
 ### Keywords
