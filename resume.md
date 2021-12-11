@@ -12,8 +12,8 @@ __St.Petersburg University of Telecommunications__
 
 ## Work experience
 `August 2019 - currently`
-__Machine Learning Engineer__, [__Grid Dynamics__](https://www.griddynamics.com/)
-Various projects for a few clients
+__Machine Learning Engineer__, [__Grid Dynamics__](https://www.griddynamics.com/)  
+Various projects for a few clients:
 * Recommender systems
 * Computer Vision: Visual Search, Video processing
 * Building ML-pipelines
