@@ -1,9 +1,12 @@
 
 # Dmitry Pavlov
-Machine Learning Engineer
+### Machine Learning Engineer
+How to reach me:
+* dopavlov [at] gmail.com
+* www.linkedin.com/in/dmitriy-pavlov/ 
 
 ### Interest in
-Computer Vision, Reinforcement Learning, Robotics
+Robotics, ML on edge devices, Reinforcement Learning
 
 ## Education
 `2001-2006`
@@ -30,7 +33,7 @@ Article about product (rus language): [link](https://vc.ru/tribuna/38102-taymlay
 `January 2016 - July 2017`
 __Self-employed developer__  
 Developing own mobile applications:
-* Total Installs: 20M+
+* Total Installs: 30M+
 * There are apps with neural networks: [example](https://github.com/deerslab/quickdraw)
 
 `May 2010 - January 2016`
