@@ -43,6 +43,7 @@ __IT manager / Head of IT-infrastructure__, __Bank Sovetskiy__
 
 ## Certificates
 * __AWS Certified Machine Learning__, [Validation Number 6PXWRNBBF214163H](http://aws.amazon.com/verification)
+* __AWS Certified Solutions Architect - Associate__, [Validation Number TEC7Z13BFF1Q1M91](http://aws.amazon.com/verification)
 * __AWS Cloud Practitioner__, [Validation Number TQ570KSJCMF4QLWR](http://aws.amazon.com/verification)
 * __Dataiku Advanced DSS design__, License N° 29098d6E79
 
