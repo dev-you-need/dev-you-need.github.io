@@ -27,9 +27,10 @@ __Achievements:__
 site
 * Nike: Implemented pipelines for extending recommender system
 * Internal RnD project: Developed backend for cloud anomaly detection service
-* Presale project: Developed solution for people diversity analytics in video
-Technologies:
-Python, AWS, AirFlow, Tensorflow, PyTorch, OpenCV, Git, Docker
+* Presale project: Developed solution for people diversity analytics in video  
+
+__Technologies__:
+Python, AWS, AirFlow, Tensorflow, PyTorch, OpenCV, Git, Docker, Kubernetes
 
 `October 2018 - July 2019`
 __Head of IT__, [__Braingarden__](https://braingarden.ai)
