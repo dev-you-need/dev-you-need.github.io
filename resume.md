@@ -1,6 +1,8 @@
 
 # Dmitry Pavlov
 ### Machine Learning Engineer
+__Location:__ Guadalajara, Mexico
+
 How to reach me:
 * dopavlov [at] gmail.com
 * www.linkedin.com/in/dmitriy-pavlov/ 
@@ -16,10 +18,18 @@ __St.Petersburg University of Telecommunications__
 ## Work experience
 `August 2019 - currently`
 __Machine Learning Engineer__, [__Grid Dynamics__](https://www.griddynamics.com/)  
-Various projects for a few clients:
-* Recommender systems
-* Computer Vision: Visual Search, Video processing
-* Building ML-pipelines
+__Responsibilities:__
+* ML engineer for various customer projects: Nike, Roofstock, Levi's
+* Developing and implementing DS&ML solutions
+
+__Achievements:__
+* Roofstock: Developed and implemented a model for prediction of purchase by user actions on the
+site
+* Nike: Implemented pipelines for extending recommender system
+* Internal RnD project: Developed backend for cloud anomaly detection service
+* Presale project: Developed solution for people diversity analytics in video
+Technologies:
+Python, AWS, AirFlow, Tensorflow, PyTorch, OpenCV, Git, Docker
 
 `October 2018 - July 2019`
 __Head of IT__, [__Braingarden__](https://braingarden.ai)
@@ -52,5 +62,6 @@ __IT manager / Head of IT-infrastructure__, __Bank Sovetskiy__
 * Deep Learning tools: Tensorflow, Keras, PyTorch
 * Cloud providers: AWS
 * Common DS tools: pandas, numpy, scikit-learn, matplotlib, etc
-* Infrastructure: Docker
+* MLops tools: MLFlow, DVC
+* Infrastructure: Docker, Airflow, Databricks
 * Other: OpenCV
