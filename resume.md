@@ -71,6 +71,9 @@ Responsible for the IT-infrastructure of whole bank in 17 regions of Russia, 60 
 __St.Petersburg University of Telecommunications__
 * Radioengineering
 
+### Publications
+* [“What to wear”: a story of one project](https://ml-you-need.medium.com/what-to-wear-a-story-of-one-project-5f20989e5234)
+
 ### Certificates
 * __AWS Certified Machine Learning__, [Validation Number 6PXWRNBBF214163H](http://aws.amazon.com/verification)
 * __AWS Certified Solutions Architect - Associate__, [Validation Number TEC7Z13BFF1Q1M91](http://aws.amazon.com/verification)
