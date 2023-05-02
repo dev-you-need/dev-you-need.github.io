@@ -7,7 +7,7 @@ Open to remote and relocation.
 Links:
 * dopavlov [at] gmail.com
 * [linkedin.com/in/dmitriy-pavlov/](https://linkedin.com/in/dmitriy-pavlov/)
-* [github.com/deerslab](https://github.com/deerslab)
+* [github.com/dev-you-need](https://github.com/dev-you-need)
 * [leetcode.com/deerslab/](https://leetcode.com/deerslab/)
 
 ## Summary
