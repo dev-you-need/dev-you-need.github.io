@@ -2,7 +2,7 @@
 # Dmitry Pavlov
 ## Machine Learning Engineer
 __Location:__ Guadalajara, Mexico  
-Open to remote and relocation.
+Open for remote and relocation.
 
 Links:
 * dopavlov [at] gmail.com
