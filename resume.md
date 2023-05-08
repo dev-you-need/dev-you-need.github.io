@@ -16,7 +16,7 @@ Has experience in building machine learning pipelines with a full lifecycle.
 In love with robotics and computer vision.
 
 ## Work experience
-`August 2019 - currently`
+`August 2019 - May 2023`
 __Machine Learning Engineer__, [__Grid Dynamics__](https://www.griddynamics.com/)  
 
 GD is an outsourcing company providing IT services.  
