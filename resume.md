@@ -11,9 +11,10 @@ Links:
 * [leetcode.com/deerslab/](https://leetcode.com/deerslab/)
 
 ## Summary
-Machine Learning Engineer, MLOps. Has 6+ years DS&ML experience, 16+ years overall in IT. IT-manager (up to 70 employees) turned developer. Completed projects for Nike, Levi’s, LG. Finished 10+ projects.
-Has experience in building machine learning pipelines with a full lifecycle.
-In love with robotics and computer vision.
+16+ years overall in Tech, ML, MLops. Has 8+ years of  CTO, Team Leadership & Project Management experience (70+ employees). Has 6+ years of DS & ML experience.  
+Completed projects for Nike, Levi’s, LG.  
+Finished 10+ projects (E-commerce, Retail, HealthTech, Marketing, etc.).  
+Professional interests: robotics, computer vision, MLops, ML models building and integration in production
 
 ## Work experience
 `August 2019 - May 2023`
