@@ -11,10 +11,11 @@ Links:
 * [leetcode.com/deerslab/](https://leetcode.com/deerslab/)
 
 ## Summary
-16+ years overall in Tech, ML, MLops. Has 8+ years of  CTO, Team Leadership & Project Management experience (70+ employees). Has 6+ years of DS & ML experience.  
+Masters in Engineering, 2006.
+16+ years overall in Tech, MLops. Has 8+ years of  CTO, Team Leadership & Project Management experience (60+ employees).
 Completed projects for Nike, Levi’s, LG.  
 Finished 10+ projects (E-commerce, Retail, HealthTech, Marketing, etc.).  
-Professional interests: robotics, computer vision, MLops, ML models building and integration in production
+Professional interests: robotics, computer vision, MLops, ML models optimization and integration in production
 
 ## Work experience
 `August 2019 - May 2023`
